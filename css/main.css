@@ -1,0 +1,7 @@
+main div { width: 43%; display: inline-block; }
+
+img { width: 100%; }
+
+.cls-1:hover {fill: red;}
+
+.cls-2:hover {fill: green;}
